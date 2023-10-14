@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    /* border: 2px solid black; */
+    align-items: center;
+}
+.div1{
+    /* display: flex; */
+    width: 309px;
+    border: 1px solid gray;
+    height: 338px;
+    /* justify-content: center; */
+    /* margin: 4rem;
+    flex-direction: column; */
+    /* align-items: center; */
+    background-color: #75757554;
+}
+.div1 input{
+    margin: 1rem;
+    width: 271px;
+    height:47px;
+
+}
+.div1a{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+    height:47px;
+    margin: 1rem;
+    align-items: center;
+    justify-content: center;
+    width:280px;
+}
+.div1a button{
+    border: 1px solid black;
+    height: 41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.div2{
+    border: 1px solid black;
+    height: 41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.div1b{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+    height: 41px;
+    margin: 1rem;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+}
+.div1b button{
+    border: 1px solid black;
+    height: 41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.div3{
+    border: 1px solid black;
+    height: 41px;
+    width:100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.div1c{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+    height: 41px;
+    margin: 1rem;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+}
+.div1c button{
+    border: 1px solid black;
+    height: 41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.div4{
+    border: 1px solid black;
+    height: 41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.div1d{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+    height: 41px;
+    margin: 1rem;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+}
+.div1d button{
+    border: 1px solid black;
+    height:41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.div5{
+    border: 1px solid black;
+    height: 41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: white;
+}
+.div5a{
+    border: 1px solid black;
+    height:41px;
+    width: 100px;
+    margin: 0.3rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+
+
